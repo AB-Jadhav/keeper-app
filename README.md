@@ -1,6 +1,7 @@
 Keeper App
 
-![Screenshot (35)](https://github.com/AB-Jadhav/keeper-app/assets/116675135/8b81dda9-ef63-420b-b88d-2a79aed762f7)
+
+![Screenshot (35)](https://github.com/AB-Jadhav/keeper-app/assets/116675135/0890a2c0-f4a7-4b73-9857-9f271af2707c)
 
 Keeper App is a simple and intuitive note-taking application built with React. It allows you to quickly jot down notes, ideas, to-do lists, or anything you want to remember. 
 With an easy-to-use interface and the ability to create, edit, and delete notes, Keeper App helps you stay organized and keep your thoughts in one place.
